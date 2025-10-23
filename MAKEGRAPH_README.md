@@ -129,7 +129,7 @@ pandas >= 1.0
 
 ### Line Styles
 - `-` : Solid line
-- `--` : Dashed line  
+- `--` : Dashed line
 - `-.` : Dash-dot line
 - `:` : Dotted line
 
